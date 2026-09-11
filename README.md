@@ -120,7 +120,5 @@ Highlights important business metrics, growth trends, profit margins, target ach
 
 This dashboard helps users understand business performance quickly in one place. It can support management in monitoring KPIs, identifying performance gaps, comparing actual sales with targets, and making more informed data-driven decisions.
 
-📁 Project File
 
-The Power BI project file (".pbix") is included in this repository.
 
